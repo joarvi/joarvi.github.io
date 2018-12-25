@@ -4,24 +4,38 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Oh, hi there! I wasn't expecting you! Anyways, glad to see you on this page! My name is Señor Testmeister. I like to play around with things e.g. with GitHub Pages. Otherwise, in my spare, I enjoy enjoying life.
 
-## Find me on
-
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+That's about it. There's not much to see over here, but if you're interested in spite of all, please keep on reading.
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is sr.testmeister(@)helsinki.(fi) 
 
-## Courses I've Taken
+## CV
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Check out my non-exiting CV](https://www.google.com)
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Check out my CV](cv-senor-testmeister.pdf)
+
+## Find me (perhaps) on
+
+[Google](https://www.google.com) or [GitHub](https://github.com/joarvi)
+
+## Courses
+
+[Command-line Course (On-going)](https://courses.helsinki.fi/fi/KIK-LG218/126710126), fall 2018
+
+[Introduction to Language Technology](https://courses.helsinki.fi/fi/kik-405), fall 2018
 
 ## Projects
 
+[cmdline-course](https://github.com/joarvi/cmdline-course)
+
+[This GitHub Page](https://joarvi.github.io)
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Shriracha](https://en.wikipedia.org/wiki/Sriracha_sauce)
+
+[Tabasco](https://en.wikipedia.org/wiki/Tabasco_sauce) 
