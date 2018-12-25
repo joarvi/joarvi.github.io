@@ -6,7 +6,7 @@ layout: default
 
 This section will give you an overview of the Command-Line Course. Contents of the course have have been divided in 7 section i.e. in 7 weeks.
 
-The final grade consist of:
+The final grade consists of:
 
 | Part                        | Weight          |
 | --------------------------- |:---------------:|
