@@ -6,16 +6,20 @@ layout: default
 
 This section will give you an overview of the Command-Line Course. Contents of the course have have been divided in 7 section i.e. in 7 weeks.
 
+The final grade consist of:
+
+| Part                        | Weight          |
+| --------------------------- |:---------------:|
+| Quizzes (Week 1-6)          | 75%             |
+| Final Assignment (Week 7)   | 25%             |
+| Final Grade                 | 100%            |
+
 ## Week 1 - Introduction to Command-Line Environments
 
 Basic commands
 
-```
-ls
-cd
-mkdir
-mv
-```
+* Some commands that were presented in the first week were for example ls, cd, mkdir and mv
+
 Text editors (Nano)
 
 File formats
@@ -112,5 +116,7 @@ bundle exec jekyll serve
 ```
 
 Markdown 
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 GitHub Pages
