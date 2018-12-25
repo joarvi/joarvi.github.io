@@ -4,17 +4,15 @@ layout: default
 
 ## Introduction
 
-Oh, hi there! I wasn't expecting you! Anyways, glad to see you on this page! My name is Señor Testmeister. I like to play around with things e.g. with GitHub Pages. Otherwise, in my spare, I enjoy enjoying life.
+Oh, hi there! I wasn't expecting you! Anyways, glad to see you on this page! My name is Señor Testmeister. I like to play around with things e.g. with GitHub Pages. Otherwise, in my spare time, I mostly enjoy enjoying life.
 
-That's about it. There's not much to see over here, but if you're interested in spite of all, please keep on reading.
+That's about it. There's not much to see over here, but if you're interested, please keep on reading.
 
 ## Contact
 
 My email address is sr.testmeister(@)helsinki.(fi) 
 
 ## CV
-
-[Check out my non-exiting CV](https://www.google.com)
 
 [Check out my CV](cv-senor-testmeister.pdf)
 
